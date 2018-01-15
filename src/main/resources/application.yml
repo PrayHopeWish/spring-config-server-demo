@@ -1,0 +1,17 @@
+spring:
+    application:
+        name: config-server
+    cloud:
+        config:
+            server:
+                git:
+                    uri: https://github.com/PrayHopeWish/spring-config-server-demo.git
+                    searchPaths: respo
+                    username: PrayHopeWish
+                    password: 321Kaien$Heng
+        label: master    
+        
+server:
+    port: 8888
+
+    

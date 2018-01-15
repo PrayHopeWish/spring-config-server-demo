@@ -1,0 +1,4 @@
+com/test/ribbon/HelloControler.class
+com/test/ribbon/HelloServiceHystrix.class
+com/test/ribbon/HelloService.class
+com/test/ribbon/ConfigServerApplication.class
